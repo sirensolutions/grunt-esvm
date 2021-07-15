@@ -1,7 +1,7 @@
 {
   "name": "grunt-esvm",
   "description": "Create elasticsearch clusters from grunt.",
-  "version": "3.2.11-siren-0.2.0",
+  "version": "3.2.11-siren-0.3.0",
   "homepage": "https://github.com/spenceralger/grunt-esvm",
   "license": "Apache-2.0",
   "author": {
@@ -41,7 +41,7 @@
     "bluebird": "^2.9.30",
     "cli-color": "~0.3.2",
     "cli-table": "~0.3.0",
-    "libesvm": "sirensolutions/libesvm#3.9.0-siren-0.2.0",
+    "libesvm": "sirensolutions/libesvm#3.9.0-siren-0.3.0",
     "lodash": "^3.9.3",
     "moment": "^2.10.3",
     "wreck": "^5.6.0"
